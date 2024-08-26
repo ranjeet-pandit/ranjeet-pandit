@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ranjeet-pandit
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java and Python
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently working as a Java Springboot developer
+- 🌱 I'm currently learning DevOps
 - 💞️ I’m looking to collaborate on ......
 - 📫 You can reach me at- ranjeetkrpandit1@gmail.com
 
