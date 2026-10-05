@@ -61,10 +61,6 @@ Certified in **GitHub Copilot and SAP Generative AI**, with hands-on experience 
 - **Mentorship:** Mentored junior developers, providing technical guidance and helping team members become project-ready through knowledge sharing, code reviews, and support on project tasks.
 - **Production Support:** Provided L3 production support, troubleshooting critical issues, performing defect analysis, and contributing to application stability and reliability.
 
-## Education
-
-- **Bachelor's Degree** (Fulfills the 15+ years full-time education requirement)
-
 ## Certificates & Achievements
 
 - [**SAP Certified – SAP Generative AI Developer**](https://www.credly.com/badges/ed820f54-e4ff-451d-9e06-44507001fc0d) | SAP | 2026 – Certified in SAP Business AI, SAP BTP application extensions, LLM integration, SAP AI Core, SAP AI Launchpad, and SAP Generative AI Hub.
