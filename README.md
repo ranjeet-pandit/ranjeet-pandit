@@ -12,7 +12,7 @@ I build scalable enterprise applications using modern Java full-stack frameworks
 [![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjeet-pandit)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjeetkrpandit1@gmail.com)
 
-**+91 8420800708** · Bengaluru / Relocatable
+**+91 8420800708** 
 <!-- Added location note for Bengaluru as per job description requirements -->
 
 </div>
