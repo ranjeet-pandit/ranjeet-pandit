@@ -2,7 +2,7 @@
 
 # Ranjeet Kumar Pandit
 
-### Custom Software Engineer · AgentAI-Ready Full-Stack Developer
+### AgentAI-Ready Full-Stack Developer
 <!-- Original Title: IAM Engineer / Consultant · Microsoft Entra ID · Java Backend Engineering -->
 
 I build scalable enterprise applications using modern Java full-stack frameworks and AgentAI tools to accelerate development, testing, and integration.
